@@ -1,5 +1,4 @@
 <?php
-$lea = 1;
 class Employe {
     public $nom;
     public $prenom;
